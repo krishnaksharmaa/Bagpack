@@ -41,7 +41,7 @@ const Aboutus = () => {
                   Why Choose Us
                 </span>
                 <h2 className="text-dark mb-8 text-3xl font-bold sm:text-4xl">
-                  Lorem ipsum dolor sit amet
+                  
                 </h2>
                 <p className="text-body-color mb-8 text-base">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse

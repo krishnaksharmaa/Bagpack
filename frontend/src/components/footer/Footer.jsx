@@ -10,11 +10,10 @@ const Footer = () => {
   return (
     <div className="w-full bg-black py-16 px-10 grid md:grid-cols-2 gap-8 text-gray-300 bottom-0">
       <div className="">
-        <h3 className="text-2xl font-bold text-[#41A4FF]">Travely</h3>
+        <h3 className="text-2xl font-bold text-[#41A4FF]">BagPack</h3>
         <p className="py-4">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio non
-          nemo veniam, natus accusantium. Praesentium, doloribus mollitia
-          dignissimos similique optio
+        Dreaming of your next escape? Let BAGPACK turn that dream into a destination — with easy booking,
+         expert support, and travel deals you won’t find anywhere else.
         </p>
         <div className="flex justify-start gap-10 md:w-[75%] my-6">
           <FaWhatsappSquare size={30} />
